@@ -1,0 +1,65 @@
+#incluir <iostream>
+
+utilizando el espacio de nombres estándar;
+
+int principal( )
+
+{
+
+    
+
+    char opción;
+
+    pesos flotantes;
+
+cout << "¿Cual es la cantidad de pesos a convertir?"; cin >> pesos;
+
+cout << "Elija una opcion : \n1.Dolares. \n2.Euros. \n3.Soles Peruanos. \n4.Francos Suizos. \n5.Chelines. \n";
+
+cin >> opción;
+
+interruptor (opción)
+
+{
+
+    caso 1':
+
+        cout << "Esta equivale a: " << cantidad de pesos*0.053 <<" Dolares" << endl;
+
+        descanso;
+
+    
+
+    caso '2':
+
+        cout << "Esta equivale a: " << pesos cantidad*0.049 << " Euros" << endl;
+
+        descanso;
+
+    
+
+    caso '3':
+
+        cout << "Esta equivale a: " << cantidad de pesos*0.20 << " Soles Peruanos" << endl;
+
+        descanso;
+
+    
+
+    caso '4':
+
+        cout << "Esta equivale a: " << cantidad de pesos*0.048 << " Francos Suizos" << endl;
+
+        descanso;
+
+    
+
+    caso '5':
+
+        cout << "Esta equivale a: " << pesos cantidad*6.54 << " Chelines" << endl;
+
+        descanso;}
+
+        
+
+}
